@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkizzyAine
-- 👀 I’m interested in C,C#,C++
-- 🌱 I’m currently learning Python, MySQLite, JavaScript, CSS, HTML
+- 👀 I’m interested in C#,C++
+- 🌱 I’m currently learning Python, Node.js, JavaScript/Ejs, CSS, HTML
 - 💞️ I’m looking to collaborate on Anything ¯\_(ツ)_/¯ 
 - 📫 How to reach me on Discord: Skizzy#1337
 
