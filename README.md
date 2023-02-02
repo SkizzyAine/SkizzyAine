@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on Anything ¯\_(ツ)_/¯ 
 - 📫 How to reach me on Discord: Skizzy#1337
 
-<!---
-SkizzyAine/SkizzyAine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" alt="SkizzyAine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkizzyAine&show_icons=true&hide_border=true>
