@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Anything ¯\_(ツ)_/¯ 
 - 📫 How to reach me on Discord: Skizzy#1337
 
-[![SkizzyAine's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkizzyAine)](https://github.com/SkizzyAine/github-readme-stats)
+[![SkizzyAine's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkizzyAine&show_icons=true&theme=dark)](https://github.com/SkizzyAine/github-readme-stats)
